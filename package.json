@@ -1,5 +1,5 @@
 {
-  "name": "google-fonts-webpack-plugin",
+  "name": "@beyonk/google-fonts-webpack-plugin",
   "version": "0.4.4",
   "description": "Google Fonts Webpack plugin",
   "main": "src/index.js",
@@ -15,7 +15,8 @@
     "fonts",
     "webfonts",
     "webpack",
-    "plugin"
+    "plugin",
+    "beyonk"
   ],
   "scripts": {
     "test": "mocha spec --colors",
