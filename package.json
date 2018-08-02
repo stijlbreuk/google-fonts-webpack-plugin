@@ -5,10 +5,10 @@
   "main": "src/index.js",
   "author": "Gabriela Seabra",
   "license": "ISC",
-  "homepage": "https://github.com/gabiseabra/google-fonts-webpack-plugin",
+  "homepage": "https://github.com/antony/google-fonts-webpack-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabiseabra/google-fonts-webpack-plugin.git"
+    "url": "https://github.com/antony/google-fonts-webpack-plugin.git"
   },
   "keywords": [
     "google",
