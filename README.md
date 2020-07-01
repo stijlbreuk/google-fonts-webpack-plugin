@@ -1,5 +1,7 @@
 # Google Fonts Webpack Plugin
 
+This fork was only made to publish the 1.3.0 version from @beyonk/google-fonts-webpack-plugin, don't expect any updates for this.
+
 *Compatible with Webpack 4.0*
 
 Download Google fonts to webpack build folder using [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) or use CDN to integrate with [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin).
